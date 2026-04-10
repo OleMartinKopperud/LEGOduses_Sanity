@@ -4,7 +4,7 @@ const category = {
     type: "document",
     fields: [
         {
-            name: "title",
+            name: "categoryname",
             title: "Kategorinavn",
             type: "string"
         },
